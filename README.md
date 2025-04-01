@@ -6,8 +6,11 @@ Program ini adalah aplikasi berbasis Windows Forms yang digunakan untuk mengelol
 Fitur
 
 Menambahkan Data Parkir: Pengguna dapat menambahkan kendaraan baru dengan nomor plat, nama pemilik, dan tanggal parkir.
+
 Memperbarui Data Parkir: Pengguna dapat mengubah informasi kendaraan berdasarkan nomor plat.
+
 Menghapus Data Parkir: Pengguna dapat menghapus data kendaraan dari sistem.
+
 Menampilkan Data Parkir: Data kendaraan yang terparkir ditampilkan dalam bentuk tabel.
 
 Teknologi yang Digunakan
